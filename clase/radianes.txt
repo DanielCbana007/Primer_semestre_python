@@ -1,0 +1,2 @@
+El radian es: 43
+El radian es: 0.7504913100087616

@@ -1,0 +1,4 @@
+la nota del parcial es: 4
+la nota del final es: 3
+la nota del seguimiento es: 4
+La nota final es:: 3.7
